@@ -1,5 +1,5 @@
 .baner {
-  height: 65vh;
+  height: 90vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -13,20 +13,21 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  text-align: center;
 }
 
 .baner-logo {
   text-transform: lowercase;
-  text-align: center;
+  font-size: 1.5em;
 }
 
 .baner-logo__img {
-  font-size: 52px;
+  font-size: 2.4em;
   color: var(--accent);
 }
 
 .baner-logo__img small {
-  font-size: 16px;
+  font-size: 1em;
   vertical-align: middle;
 }
 

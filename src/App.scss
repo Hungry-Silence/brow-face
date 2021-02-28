@@ -53,6 +53,9 @@ body {
     }    
     &::-webkit-scrollbar-thumb {
         background: var(--accent);
+    }    
+    @media (max-width: 2560px) {        
+        font-size: 20px;
     } 
     @media (max-width: 1920px) {        
         font-size: 16px;
@@ -71,6 +74,10 @@ h3 { font-size: 1.5em; }
 
 .container {
     margin: 0 auto;
+    @media (max-width: 2560px) {
+        max-width: 2560px;
+        padding: 5vh 500px;
+    }
     @media (max-width: 1920px) {
         max-width: 1920px;
         padding: 5vh 200px;
@@ -148,4 +155,8 @@ a {
             border-color: var(--accent);
         }
     }
+}
+
+.btn-up {
+
 }

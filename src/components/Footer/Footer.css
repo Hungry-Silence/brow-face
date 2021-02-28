@@ -1,0 +1,45 @@
+.footer {
+  background: var(--absolute);
+  color: var(--text-primary);
+}
+
+@media (max-width: 2560px) {
+  .footer {
+    max-width: 2560px;
+    padding: 25px 500px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .footer {
+    padding: 25px 200px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .footer {
+    padding: 25px 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  .footer {
+    padding: 10px 25px;
+  }
+}
+
+@media (max-width: 650px) {
+  .footer {
+    padding: 10px 25px;
+  }
+  .footer-menu {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer {
+    padding: 5px 10px;
+  }
+}
+/*# sourceMappingURL=Footer.css.map */

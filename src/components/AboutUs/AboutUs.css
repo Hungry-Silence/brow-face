@@ -36,9 +36,10 @@
   height: 150px;
   border-radius: 50%;
   position: relative;
+  color: var(--accent);
 }
 
-.about-us .servic__icon i {
+.about-us .servic__icon svg {
   margin: 0;
   padding: 0;
   position: absolute;

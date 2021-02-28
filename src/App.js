@@ -14,6 +14,8 @@ function App() {
             <Main/> 
 
             <Footer/>
+
+            <a className="btn-up"></a> 
             
         </div>
     );

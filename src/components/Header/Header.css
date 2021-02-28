@@ -1,9 +1,8 @@
 .header {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #ffffff), to(#ffffffcc));
-  background: linear-gradient(to bottom, #ffffff 50%, #ffffffcc 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #ffffff), to(#ffffff00));
+  background: linear-gradient(to bottom, #ffffff 50%, #ffffff00 100%);
   color: var(--text-tertiary);
   height: 25vh;
-  padding: 50px 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -13,23 +12,11 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-}
-
-.header .socials, .header .tel {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.header .socials i, .header .tel i {
-  color: var(--text-tertiary);
-}
-
-.header .socials a, .header .tel a {
-  margin: 0 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
 }
 
 .header-menu {
@@ -41,6 +28,12 @@
 .header-menu__item {
   margin: 0 25px;
   color: var(--text-tertiary);
+}
+
+@media (max-width: 2560px) {
+  .header {
+    padding: 50px 500px;
+  }
 }
 
 @media (max-width: 1920px) {

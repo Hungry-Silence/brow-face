@@ -32,13 +32,18 @@
     }
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 2560px) {
     .service-preview {
-        width: 250px;
-        height: 250px;
+        width: 300px;
+        height: 300px;
     }
     .service-info {
         padding: 0 100px;
+    }
+    .service-price-list-item {
+        .price {
+            width: 115px;
+        }
     }
     .service:nth-child(odd) {
         flex-direction: row;
@@ -56,6 +61,21 @@
         }
         .service-price-list-item {
             flex-direction: row-reverse;
+        }
+    }
+}
+
+@media (max-width: 1920px) {
+    .service-preview {
+        width: 250px;
+        height: 250px;
+    }
+    .service-info {
+        padding: 0 75px;
+    }
+    .service-price-list-item {
+        .price {
+            width: 105px;
         }
     }
 }
