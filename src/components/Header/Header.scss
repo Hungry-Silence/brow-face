@@ -1,0 +1,42 @@
+.header {
+    background: linear-gradient(
+        to bottom, 
+        #ffffff 50%,
+        #ffffff00 100%);
+    color: var(--text-tertiary);
+    height: 25vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    &-menu {
+        display: flex;
+        &__item {
+            margin: 0 25px; 
+            color: var(--text-tertiary);
+        }
+    }
+    
+    @media (max-width: 1920px) {
+        padding: 50px 200px;
+    }
+    @media (max-width: 1240px) {  
+        padding: 50px 100px;
+    }
+    @media (max-width: 800px) {
+        padding: 25px 25px;
+    }
+    @media (max-width: 650px) {
+        padding: 25px 25px;
+        &-menu {
+            display: none;
+        }
+    }
+    @media (max-width: 500px) {
+        padding: 10px 10px;
+    }
+}

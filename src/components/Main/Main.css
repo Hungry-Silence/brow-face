@@ -1,0 +1,17 @@
+.section {
+  background: #ffffffcc;
+}
+
+.section-title, .section-description {
+  text-align: center;
+}
+
+.section-description {
+  margin-bottom: 75px;
+}
+
+.section-content .about-us .servic__icon {
+  background: var(--third-color);
+  color: var(--accent);
+}
+/*# sourceMappingURL=Main.css.map */

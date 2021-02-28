@@ -1,0 +1,25 @@
+.section {
+    &-title, &-description {
+        text-align: center;
+    }
+    &-description {
+        margin-bottom: 75px;
+    }
+    &:nth-child(2) {
+        background: linear-gradient(
+            to bottom, 
+            #ffffff 0%, 
+            #ffffff 75%, 
+            #ffffffcc 100%);
+    }
+    &:nth-child(3) {        
+        background: #ffffffcc;
+    }
+    &:nth-child(4) {        
+        background: linear-gradient(
+            to bottom, 
+            #ffffffcc 0%, 
+            #ffffff 25%, 
+            #ffffff 100%);
+    }
+}

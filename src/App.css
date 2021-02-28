@@ -1,0 +1,163 @@
+:root {
+  --absolute: #000000;
+  --primary-color: #202124;
+  --secondary-color: #373737b2;
+  --third-color: #f4f4f4;
+  --page-background: #202124;
+  --sidebar-background: #373737;
+  --content-background: #202124;
+  --text-primary: #f4f4f4;
+  --text-subhaead: #a0a0a0;
+  --text-secondary: #373737;
+  --text-tertiary: #202124;
+  --accent: #ed037c;
+  --destructive: #f74e4e;
+  --desktop-width: 1920px;
+  --laptop-width: 1240px;
+  --tablet-width: 800px;
+  --mobile-width: 650px;
+  --s-mobile-width: 500px;
+}
+
+*, ::before, ::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+html::-webkit-scrollbar, body::-webkit-scrollbar {
+  width: 0;
+}
+
+body {
+  background-image: url("assets/imgs/bg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--absolute);
+}
+
+body::-webkit-scrollbar {
+  background: var(--content-background);
+}
+
+body::-webkit-scrollbar-thumb {
+  background: var(--accent);
+}
+
+@media (max-width: 1920px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--accent);
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+@media (max-width: 1920px) {
+  .container {
+    max-width: 1920px;
+    padding: 5vh 200px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .container {
+    max-width: 1240px;
+    padding: 5vh 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  .container {
+    max-width: 800px;
+    padding: 5vh 25px;
+  }
+}
+
+@media (max-width: 650px) {
+  .container {
+    max-width: 650px;
+    padding: 5vh 25px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 500px;
+    padding: 5vh 10px;
+  }
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.ta-left {
+  text-align: left;
+}
+
+.ta-right {
+  text-align: right;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 50px;
+}
+
+.btn-pink {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+/*# sourceMappingURL=App.css.map */

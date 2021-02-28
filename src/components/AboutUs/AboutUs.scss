@@ -1,0 +1,36 @@
+.about-us {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    .servic {
+        width: 350px;
+        margin: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        &__icon {
+            // background: var(--third-color);
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            position: relative;
+            color: var(--accent);
+            svg {
+                margin: 0;
+                padding: 0;
+                position: absolute;
+                bottom: 50%;
+                right: 50%;
+                transform: translate(50%, 50%);
+            }
+        }
+        &__name {
+            text-align: center;
+        }
+        &__description {            
+            text-align: center;
+        }
+    }
+}

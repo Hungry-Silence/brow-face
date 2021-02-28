@@ -1,0 +1,78 @@
+.header {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #ffffff), to(#ffffffcc));
+  background: linear-gradient(to bottom, #ffffff 50%, #ffffffcc 100%);
+  color: var(--text-tertiary);
+  height: 25vh;
+  padding: 50px 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .socials, .header .tel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .socials i, .header .tel i {
+  color: var(--text-tertiary);
+}
+
+.header .socials a, .header .tel a {
+  margin: 0 10px;
+}
+
+.header-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header-menu__item {
+  margin: 0 25px;
+  color: var(--text-tertiary);
+}
+
+@media (max-width: 1920px) {
+  .header {
+    padding: 50px 200px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .header {
+    padding: 50px 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  .header {
+    padding: 25px 25px;
+  }
+}
+
+@media (max-width: 650px) {
+  .header {
+    padding: 25px 25px;
+  }
+  .header-menu {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .header {
+    padding: 10px 10px;
+  }
+}
+/*# sourceMappingURL=Header.css.map */

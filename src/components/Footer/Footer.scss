@@ -1,0 +1,23 @@
+.footer {
+    background: var(--absolute);
+    color: var(--text-primary);
+
+    @media (max-width: 1920px) {
+        padding: 25px 200px;
+    }
+    @media (max-width: 1240px) {  
+        padding: 25px 100px;
+    }
+    @media (max-width: 800px) {
+        padding: 10px 25px;
+    }
+    @media (max-width: 650px) {
+        padding: 10px 25px;
+        &-menu {
+            display: none;
+        }
+    }
+    @media (max-width: 500px) {
+        padding: 5px 10px;
+    }
+}
