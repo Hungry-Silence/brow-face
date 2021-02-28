@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brow-face/static/css/main.764081a2.chunk.css",
-    "main.js": "/brow-face/static/js/main.7d74bba0.chunk.js",
-    "main.js.map": "/brow-face/static/js/main.7d74bba0.chunk.js.map",
+    "main.css": "/brow-face/static/css/main.4eb851e7.chunk.css",
+    "main.js": "/brow-face/static/js/main.7c40a494.chunk.js",
+    "main.js.map": "/brow-face/static/js/main.7c40a494.chunk.js.map",
     "runtime-main.js": "/brow-face/static/js/runtime-main.dd6799fb.js",
     "runtime-main.js.map": "/brow-face/static/js/runtime-main.dd6799fb.js.map",
-    "static/js/2.3380ed34.chunk.js": "/brow-face/static/js/2.3380ed34.chunk.js",
-    "static/js/2.3380ed34.chunk.js.map": "/brow-face/static/js/2.3380ed34.chunk.js.map",
+    "static/js/2.5595275f.chunk.js": "/brow-face/static/js/2.5595275f.chunk.js",
+    "static/js/2.5595275f.chunk.js.map": "/brow-face/static/js/2.5595275f.chunk.js.map",
     "index.html": "/brow-face/index.html",
-    "static/css/main.764081a2.chunk.css.map": "/brow-face/static/css/main.764081a2.chunk.css.map",
-    "static/js/2.3380ed34.chunk.js.LICENSE.txt": "/brow-face/static/js/2.3380ed34.chunk.js.LICENSE.txt",
+    "static/css/main.4eb851e7.chunk.css.map": "/brow-face/static/css/main.4eb851e7.chunk.css.map",
+    "static/js/2.5595275f.chunk.js.LICENSE.txt": "/brow-face/static/js/2.5595275f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/brow-face/static/media/bg.2b8c501a.webp",
     "static/media/brows-2.jpeg": "/brow-face/static/media/brows-2.4969f0a7.jpeg",
     "static/media/brows.jpeg": "/brow-face/static/media/brows.93b9c09d.jpeg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dd6799fb.js",
-    "static/js/2.3380ed34.chunk.js",
-    "static/css/main.764081a2.chunk.css",
-    "static/js/main.7d74bba0.chunk.js"
+    "static/js/2.5595275f.chunk.js",
+    "static/css/main.4eb851e7.chunk.css",
+    "static/js/main.7c40a494.chunk.js"
   ]
 }
