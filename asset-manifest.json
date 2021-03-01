@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/brow-face/static/css/main.c6ed7544.chunk.css",
-    "main.js": "/brow-face/static/js/main.fca8d9a9.chunk.js",
-    "main.js.map": "/brow-face/static/js/main.fca8d9a9.chunk.js.map",
+    "main.css": "/brow-face/static/css/main.d899b9a2.chunk.css",
+    "main.js": "/brow-face/static/js/main.781b06a4.chunk.js",
+    "main.js.map": "/brow-face/static/js/main.781b06a4.chunk.js.map",
     "runtime-main.js": "/brow-face/static/js/runtime-main.dd6799fb.js",
     "runtime-main.js.map": "/brow-face/static/js/runtime-main.dd6799fb.js.map",
     "static/js/2.7052e193.chunk.js": "/brow-face/static/js/2.7052e193.chunk.js",
     "static/js/2.7052e193.chunk.js.map": "/brow-face/static/js/2.7052e193.chunk.js.map",
     "index.html": "/brow-face/index.html",
-    "static/css/main.c6ed7544.chunk.css.map": "/brow-face/static/css/main.c6ed7544.chunk.css.map",
+    "static/css/main.d899b9a2.chunk.css.map": "/brow-face/static/css/main.d899b9a2.chunk.css.map",
     "static/js/2.7052e193.chunk.js.LICENSE.txt": "/brow-face/static/js/2.7052e193.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/brow-face/static/media/bg.2b8c501a.webp",
-    "static/media/brows-2.jpeg": "/brow-face/static/media/brows-2.4969f0a7.jpeg",
-    "static/media/brows.jpeg": "/brow-face/static/media/brows.93b9c09d.jpeg",
-    "static/media/eyelashes.jpeg": "/brow-face/static/media/eyelashes.dc431129.jpeg",
-    "static/media/hairstyle.jpeg": "/brow-face/static/media/hairstyle.ff665a87.jpeg",
-    "static/media/make-up-2.jpeg": "/brow-face/static/media/make-up-2.0f29b2cd.jpeg",
-    "static/media/make-up-3.jpeg": "/brow-face/static/media/make-up-3.adab55ac.jpeg",
-    "static/media/make-up-hairstyle.jpeg": "/brow-face/static/media/make-up-hairstyle.9b5fe54c.jpeg",
-    "static/media/make-up.jpeg": "/brow-face/static/media/make-up.23261851.jpeg"
+    "static/media/brows-2.webp": "/brow-face/static/media/brows-2.dc47accd.webp",
+    "static/media/brows.webp": "/brow-face/static/media/brows.15f9af9d.webp",
+    "static/media/eyelashes.webp": "/brow-face/static/media/eyelashes.0495826e.webp",
+    "static/media/hairstyle.webp": "/brow-face/static/media/hairstyle.a19fb3f3.webp",
+    "static/media/make-up-2.webp": "/brow-face/static/media/make-up-2.ce392b46.webp",
+    "static/media/make-up-3.webp": "/brow-face/static/media/make-up-3.2079535b.webp",
+    "static/media/make-up-hairstyle.webp": "/brow-face/static/media/make-up-hairstyle.6069f63c.webp",
+    "static/media/make-up.webp": "/brow-face/static/media/make-up.4de07c47.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.dd6799fb.js",
     "static/js/2.7052e193.chunk.js",
-    "static/css/main.c6ed7544.chunk.css",
-    "static/js/main.fca8d9a9.chunk.js"
+    "static/css/main.d899b9a2.chunk.css",
+    "static/js/main.781b06a4.chunk.js"
   ]
 }
