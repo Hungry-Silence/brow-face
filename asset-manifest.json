@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/brow-face/static/css/main.ddb2ed40.chunk.css",
-    "main.js": "/brow-face/static/js/main.88ddc348.chunk.js",
-    "main.js.map": "/brow-face/static/js/main.88ddc348.chunk.js.map",
+    "main.css": "/brow-face/static/css/main.0c9f96ab.chunk.css",
+    "main.js": "/brow-face/static/js/main.d2c8672d.chunk.js",
+    "main.js.map": "/brow-face/static/js/main.d2c8672d.chunk.js.map",
     "runtime-main.js": "/brow-face/static/js/runtime-main.dd6799fb.js",
     "runtime-main.js.map": "/brow-face/static/js/runtime-main.dd6799fb.js.map",
     "static/js/2.7052e193.chunk.js": "/brow-face/static/js/2.7052e193.chunk.js",
     "static/js/2.7052e193.chunk.js.map": "/brow-face/static/js/2.7052e193.chunk.js.map",
     "index.html": "/brow-face/index.html",
-    "static/css/main.ddb2ed40.chunk.css.map": "/brow-face/static/css/main.ddb2ed40.chunk.css.map",
+    "static/css/main.0c9f96ab.chunk.css.map": "/brow-face/static/css/main.0c9f96ab.chunk.css.map",
     "static/js/2.7052e193.chunk.js.LICENSE.txt": "/brow-face/static/js/2.7052e193.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/brow-face/static/media/mobile-bg.40568f75.webp",
     "static/media/brows.webp": "/brow-face/static/media/brows.51a45630.webp",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.dd6799fb.js",
     "static/js/2.7052e193.chunk.js",
-    "static/css/main.ddb2ed40.chunk.css",
-    "static/js/main.88ddc348.chunk.js"
+    "static/css/main.0c9f96ab.chunk.css",
+    "static/js/main.d2c8672d.chunk.js"
   ]
 }
