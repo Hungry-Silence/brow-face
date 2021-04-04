@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brow-face/static/css/main.29d296b5.chunk.css",
-    "main.js": "/brow-face/static/js/main.8962d9e1.chunk.js",
-    "main.js.map": "/brow-face/static/js/main.8962d9e1.chunk.js.map",
-    "runtime-main.js": "/brow-face/static/js/runtime-main.dd6799fb.js",
-    "runtime-main.js.map": "/brow-face/static/js/runtime-main.dd6799fb.js.map",
-    "static/js/2.4eb37919.chunk.js": "/brow-face/static/js/2.4eb37919.chunk.js",
-    "static/js/2.4eb37919.chunk.js.map": "/brow-face/static/js/2.4eb37919.chunk.js.map",
+    "main.css": "/brow-face/static/css/main.014e36cc.chunk.css",
+    "main.js": "/brow-face/static/js/main.d36cf3d6.chunk.js",
+    "main.js.map": "/brow-face/static/js/main.d36cf3d6.chunk.js.map",
+    "runtime-main.js": "/brow-face/static/js/runtime-main.ad6121ac.js",
+    "runtime-main.js.map": "/brow-face/static/js/runtime-main.ad6121ac.js.map",
+    "static/js/2.f83f5d10.chunk.js": "/brow-face/static/js/2.f83f5d10.chunk.js",
+    "static/js/2.f83f5d10.chunk.js.map": "/brow-face/static/js/2.f83f5d10.chunk.js.map",
     "index.html": "/brow-face/index.html",
-    "static/css/main.29d296b5.chunk.css.map": "/brow-face/static/css/main.29d296b5.chunk.css.map",
-    "static/js/2.4eb37919.chunk.js.LICENSE.txt": "/brow-face/static/js/2.4eb37919.chunk.js.LICENSE.txt",
+    "static/css/main.014e36cc.chunk.css.map": "/brow-face/static/css/main.014e36cc.chunk.css.map",
+    "static/js/2.f83f5d10.chunk.js.LICENSE.txt": "/brow-face/static/js/2.f83f5d10.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/brow-face/static/media/mobile-bg.40568f75.webp",
     "static/media/brows.webp": "/brow-face/static/media/brows.51a45630.webp",
     "static/media/eyelashes.webp": "/brow-face/static/media/eyelashes.ec723c03.webp",
@@ -20,9 +20,9 @@
     "static/media/make-up.webp": "/brow-face/static/media/make-up.a74d61ab.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd6799fb.js",
-    "static/js/2.4eb37919.chunk.js",
-    "static/css/main.29d296b5.chunk.css",
-    "static/js/main.8962d9e1.chunk.js"
+    "static/js/runtime-main.ad6121ac.js",
+    "static/js/2.f83f5d10.chunk.js",
+    "static/css/main.014e36cc.chunk.css",
+    "static/js/main.d36cf3d6.chunk.js"
   ]
 }
